@@ -1,4 +1,6 @@
 # software-testing
+
+quality testing is key
 It was an incredible class
 
 
