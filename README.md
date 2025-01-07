@@ -1,5 +1,6 @@
 # software-testing
 
+postman testing is a goal
 quality testing is key
 It was an incredible class
 
