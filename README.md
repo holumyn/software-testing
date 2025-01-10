@@ -11,3 +11,4 @@ It was an incredible class
 -I love QA
 -Test cases
 - This is a very awesome class
+-I so much love this software testing class and I intentionally waited before makeking my commits. So enjoy as we move on
